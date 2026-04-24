@@ -1,2 +1,2 @@
-# mini-projects
-This repo is a place of experimentation where I create smalll projects to improve my JS skills, test new features, principles...
+# Current Project
+A simple factorial calculator that uses a recursive function
